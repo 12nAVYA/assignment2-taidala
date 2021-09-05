@@ -13,3 +13,12 @@ David Livingstone, the Scottish missionary and explorer, is believed to have bee
   2. Instead, we wound up flying from Johannesburg to Livingstone, Zambia. That flight took us under 2 hours. However, the distance between Livingstone and the actual waterfall itself was around 11km, which was a bit much for a walk. So we had to take a taxi there.
   3. On the other hand, had we been able to fly right into the town of Victoria Falls, Zimbabwe, then we conceivably could have been transported to the main part of town, then literally walk 2km or so to the actual waterfall itself.
   4. A luxury dinner train crosses from Zambia to Zimbabwe over the Zambezi River and stops in the middle for a view of the Falls (though plans call for an additional departure in the other direction). For an aerial view, microlight flights are popular, and so is bungee jumping.
+4. Reached destination of Victoria Falls now you can enjoy scenario of great Water Falls in the World.
+* Things need to bring for my favourite  destination
+  * clothes
+  * food
+    * snacks
+  * drinks
+    * water
+    * coke
+    
