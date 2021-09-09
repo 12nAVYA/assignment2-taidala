@@ -35,3 +35,12 @@ I like different kinds of spicy foods.A food is something that provides nutrient
 | Dhokla khandvi  | gujatat   | 500 rupees    |
 | Mutton curry    | hyderabad | 800 rupees    |
 
+***
+
+# Quotes to inspire in daily life
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma.
+
+> If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.
+
+
