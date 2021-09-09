@@ -39,8 +39,8 @@ I like different kinds of spicy foods.A food is something that provides nutrient
 
 # Quotes to inspire in daily life
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma.
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs
 
-> If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.
+> If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.-Oprah Winfrey
 
 
