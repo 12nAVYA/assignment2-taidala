@@ -43,4 +43,37 @@ I like different kinds of spicy foods.A food is something that provides nutrient
 
 > If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.-Oprah Winfrey
 
+***
 
+# code Fencing
+> Bipartite Graph check is an algorithm in the mathematical field of graph theory, a bipartite graph (or bigraph) is a graph whose vertices can be divided into two disjoint and independent sets {\displaystyle U}U and {\displaystyle V}V such that every edge connects a vertex in {\displaystyle U}U to one in {\displaystyle V}V. Vertex sets {\displaystyle U}U and {\displaystyle V}V are usually called the parts of the graph. Equivalently, a bipartite graph is a graph that does not contain any odd-length cycles.
+Discover More in <https://en.wikipedia.org/wiki/Bipartite_graph>
+~~~
+> int n;
+vector<vector<int>> adj;
+
+vector<int> side(n, -1);
+bool is_bipartite = true;
+queue<int> q;
+for (int st = 0; st < n; ++st) {
+    if (side[st] == -1) {
+        q.push(st);
+        side[st] = 0;
+        while (!q.empty()) {
+            int v = q.front();
+            q.pop();
+            for (int u : adj[v]) {
+                if (side[u] == -1) {
+                    side[u] = side[v] ^ 1;
+                    q.push(u);
+                } else {
+                    is_bipartite &= side[u] != side[v];
+                }
+            }
+        }
+    }
+}
+
+cout << (is_bipartite ? "YES" : "NO") << endl;
+~~~
+More Info <https://cp-algorithms.com/graph/bipartite-check.html>
