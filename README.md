@@ -23,3 +23,15 @@ David Livingstone, the Scottish missionary and explorer, is believed to have bee
 * coke
 
 **[Link to AboutMe.md](AboutMe.md)**
+
+***
+
+# Editing table for popular foods that present in different places
+I like different kinds of spicy foods.A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm.
+
+| Types of food   | place     | price of food |
+| ---             | ---       | ---:          |
+| chicken biryani | hyderabad | 600 rupees    |
+| Dhokla khandvi  | gujatat   | 500 rupees    |
+| Mutton curry    | hyderabad | 800 rupees    |
+
